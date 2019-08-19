@@ -1,0 +1,3 @@
+Python 2.7 & above
+Django 1.11 & above
+rest_framework
